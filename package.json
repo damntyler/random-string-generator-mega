@@ -1,0 +1,20 @@
+{
+  "name": "random-string-generator-mega",
+  "version": "1.0.0", 
+  "description": "This simple npm package provides a function to generate random strings of a specified length. It's designed to be easy to use and customizable",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damntyler/random-string-generator-mega.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "damntyler",
+  "license": "MIT"
+}
